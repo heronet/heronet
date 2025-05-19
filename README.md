@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Siratul
+# 👋 Hi there, I'm Sirat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/siratul-islam)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=mozilla)](https://www.sirat.me)
