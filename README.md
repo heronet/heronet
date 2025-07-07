@@ -6,7 +6,7 @@
 
 ## 💻 Full-Stack Developer | Physics Student
 
-I'm a Full-Stack Developer with 2+ years of professional experience specializing in SvelteKit, Next.js, TypeScript, and .NET/C#. Currently pursuing my Bachelor's in Physics at Shahjalal University of Science and Technology while working as a Software Engineer at Hackules Inc.
+I'm a Full-Stack Developer with 2+ years of professional experience specializing in SvelteKit, Next.js, TypeScript, and .NET/C#. Currently pursuing my Bachelor's in Physics at Shahjalal University of Science and Technology.
 
 ## 🛠️ Tech Stack
 
