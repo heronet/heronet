@@ -39,7 +39,7 @@ I'm a Full-Stack Developer with 2+ years of professional experience specializing
 
 ## 🏆 Experience
 
-**Software Engineer @ Hackules Inc.** *(Jun 2024 - Present)*
+**Software Engineer @ Hackules Inc.** *(Jan 2024 - Jun 2025)*
 - Leading full-stack development for education platforms using Next.js, SvelteKit & Express.js
 - Building AI-powered tools with interactive visualizations
 - Integrating with external APIs (Facebook Graph API, LinkedIn API)
