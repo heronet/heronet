@@ -83,13 +83,6 @@ I'm a passionate software engineer specializing in IoT development, embedded sys
 
 ### **IoT & Embedded Systems Projects**
 
-### [ZephyrRTOS Support for WeAct STM32F446RET6](https://github.com/zephyrproject-rtos/zephyr/pull/91886) | C, Zephyr RTOS
-
-- Added official WeAct STM32F446RET6 development board support to Zephyr RTOS
-- Contributed device tree files, board configuration, and documentation
-- Enhanced embedded systems development ecosystem for STM32F446 MCU
-- **Official Linux Foundation contributor badge earned**
-
 ### [ESP32-S3 Weather Station](https://github.com/heronet/esp32s3-weatherstation) | C++, ESP32-S3, MQTT
 
 - Comprehensive weather monitoring system with multi-sensor environmental data collection
