@@ -50,12 +50,15 @@ I'm a passionate software engineer specializing in IoT development, embedded sys
 
 ## 🔧 IoT & Embedded Systems Expertise
 
-### **Zephyr RTOS Contributor**
+### **Linux Foundation Zephyr RTOS Project - Official Contributor**
+*Jun 2025 – Present*
 
-- 🎯 Added official support for WeAct STM32F446RET6 development board
-- 🎯 Contributed to open-source embedded systems ecosystem
-- 🎯 Enhanced STM32F446 MCU integration with Zephyr RTOS
-- 🎯 **[View Contribution](https://github.com/zephyrproject-rtos/zephyr/pull/91886)** - PR #91886
+- 🎯 **Board Support Development**: Added comprehensive WeAct STM32F446RET6 support including complete device tree configuration, GPIO mappings, and peripheral initialization
+- 🎯 **Development Tools Enhancement**: Integrated PyOCD and STM32CubeProgrammer support for WeAct STM32F405/F446 development boards  
+- 🎯 **Open Source Impact**: Contributing to ecosystem serving 1000+ embedded developers globally
+- 🎯 **Key Contributions**: 
+ - **[PR #91886](https://github.com/zephyrproject-rtos/zephyr/pull/91886)** - WeAct STM32F446RET6 board support
+ - **[PR #92985](https://github.com/zephyrproject-rtos/zephyr/pull/92985)** - Development tools integration
 
 ### **Hardware & Protocols**
 
