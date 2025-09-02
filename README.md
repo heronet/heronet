@@ -69,7 +69,7 @@ I'm a passionate software engineer specializing in IoT development, embedded sys
 
 ## 💼 Professional Experience
 
-### **Software Engineer** @ Hackules Inc. (Jun 2024 - Jun 2025)
+### **Software Engineer** @ Hackules Inc. (Feb 2024 - Jun 2025)
 
 - 🎯 Lead full-stack development for Teachers Today (Next.js + Express.js) with MongoDB
 - 🎯 Lead frontend development for Opedemy (SvelteKit, 200+ APIs) and HIAR (SvelteKit, shadcn/ui)
