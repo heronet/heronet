@@ -1,17 +1,18 @@
-# Hi there, I'm Sirat! 👋
+# Hi there, I'm Siratul! 👋
 
-**IoT & Embedded Systems Developer | Full-Stack Engineer | Physics Student**
+**Embedded Systems & IoT | Full-Stack | Physics Student**
 
-I'm a passionate software engineer specializing in IoT development, embedded systems, and full-stack web development. Currently pursuing a Bachelor's in Physics while building innovative hardware-software solutions and digital experiences.
+I'm a passionate researcher and developer specializing in embedded systems, IoT development, and full-stack engineering. Currently pursuing a Bachelor's in Physics while building innovative hardware-software solutions and contributing to open-source projects.
 
 ## 🚀 About Me
 
-- 🔭 **Previously worked at:** Hackules Inc. as a Software Engineer (Jun 2024 - Jun 2025)
-- 🌱 **Learning:** IoT protocols, embedded systems, and hardware-software integration
-- 🎯 **Focus:** STM32 microcontrollers, Zephyr RTOS, IoT development, SvelteKit, Next.js
-- 🏆 **Achievement:** Official contributor to Zephyr RTOS project - added STM32F446 board support
+- 🔬 **Currently:** Research Assistant at SUST EEE Department (Mar 2025 - Present)
+- 🔭 **Previously worked at:** Hackules Inc. as Software Engineer (Jun 2024 - Jun 2025)
+- 🌱 **Learning:** RISC-V architecture, embedded Linux, smart grid protocols
+- 🎯 **Focus:** STM32 microcontrollers, Zephyr RTOS, IoT protocols, power electronics
+- 🏆 **Achievement:** Official contributor to Linux Foundation Zephyr RTOS project
 - 📍 **Location:** Sylhet, Bangladesh
-- 💼 **Open to:** IoT projects, embedded systems roles, and remote collaborations worldwide
+- 💼 **Open to:** Research collaborations, embedded systems projects, and graduate opportunities
 
 ## 🛠️ Tech Stack
 
@@ -19,24 +20,21 @@ I'm a passionate software engineer specializing in IoT development, embedded sys
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### IoT & Embedded Systems
+### Embedded Systems & IoT
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Zephyr RTOS](https://img.shields.io/badge/Zephyr%20RTOS-0D5296?style=for-the-badge&logo=zephyrproject&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr%20RTOS-0D5296?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A82D?style=for-the-badge&logo=freertos&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ### Tools & Technologies
@@ -46,110 +44,152 @@ I'm a passionate software engineer specializing in IoT development, embedded sys
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
-## 🔧 IoT & Embedded Systems Expertise
+## 🔬 Research & Open Source Contributions
 
 ### **Linux Foundation Zephyr RTOS Project - Official Contributor**
 *Jun 2025 – Present*
 
-- 🎯 **Board Support Development**: Added comprehensive WeAct STM32F446RET6 support including complete device tree configuration, GPIO mappings, and peripheral initialization
-- 🎯 **Development Tools Enhancement**: Integrated PyOCD and STM32CubeProgrammer support for WeAct STM32F405/F446 development boards  
-- 🎯 **Open Source Impact**: Contributing to ecosystem serving 1000+ embedded developers globally
+- 🎯 **Board Support Development**: Added comprehensive WeAct STM32F446RET6 support with complete device tree, GPIO mappings, and peripheral initialization
+- 🎯 **Development Tools Enhancement**: Integrated PyOCD and STM32CubeProgrammer support for WeAct STM32F405/F446 boards
+- 🎯 **Global Impact**: Contributing to ecosystem serving 1000+ embedded developers worldwide
 - 🎯 **Key Contributions**: 
  - **[PR #91886](https://github.com/zephyrproject-rtos/zephyr/pull/91886)** - WeAct STM32F446RET6 board support
- - **[PR #92985](https://github.com/zephyrproject-rtos/zephyr/pull/92985)** - Development tools integration
+ - **[PR #92985](https://github.com/zephyrproject-rtos/zephyr/pull/92985)** - PyOCD and STM32CubeProgrammer integration
 
-### **Hardware & Protocols**
+### **Espressif ESP-IDF Component Registry**
+*2025 – Present*
 
-- **Microcontrollers:** STM32F446, ESP32, ESP32-S3, Arduino-compatible boards
-- **RTOS:** Zephyr RTOS, FreeRTOS experience
-- **Communication:** MQTT, I2C, SPI, UART, BLE, WiFi protocols
-- **Development:** Embedded C/C++, ESP-IDF, Arduino framework, hardware debugging
+- 🎯 **[ESP-IDF RD-03D Component](https://components.espressif.com/components/heronet/esp_rd-03d)**: Published production-ready component for AI-Thinker RD-03D mmWave radar sensor
+- 🎯 **API Development**: Created comprehensive API with intelligent filtering algorithms and real-time coordinate tracking
+- 🎯 **Documentation**: Authored complete integration guides and hardware abstraction layer documentation
+
+## 📋 Current Research Projects
+
+### **Radar-based Occupancy Detection and Automated Relay System**
+*Ongoing Research - Government Office Buildings Energy Management (2025)*
+
+- Developing intelligent occupancy detection system using RD-03D mmWave radar sensor for automated lighting and HVAC control
+- Implementing ESP32-based relay control with Google Sheets data logging for energy consumption analysis
+- Research focuses on reducing energy waste in government buildings through presence-based automation
+- **Technologies**: ESP32, RD-03D radar sensor, relay modules, Google Sheets API, ESP-IDF
+
+### **RFID-based Attendance Management System for Rural Educational Institutions**
+*Ongoing Research - Educational Technology for Remote Communities in Bangladesh (2025)*
+
+- Developing low-cost RFID attendance system specifically designed for remote schools, villages, and universities in Bangladesh
+- Creating offline-capable solution with synchronization features for areas with limited internet connectivity
+- Research addresses educational infrastructure challenges in rural Bangladesh through accessible technology
+- **Technologies**: RFID modules, ESP32, offline data storage, web-based dashboard, database synchronization
 
 ## 💼 Professional Experience
 
-### **Software Engineer** @ Hackules Inc. (Feb 2024 - Jun 2025)
+### **Research Assistant** @ SUST EEE Department (Mar 2025 – Present)
 
-- 🎯 Lead full-stack development for Teachers Today (Next.js + Express.js) with MongoDB
-- 🎯 Lead frontend development for Opedemy (SvelteKit, 200+ APIs) and HIAR (SvelteKit, shadcn/ui)
-- 🎯 Interviewed candidates for fellow engineering roles
-- 🎯 Built AI marketing tool with interactive graphs and Facebook Graph API integration
+- 🎯 **Smart Relay Control Systems**: Developing IoT-enabled power management systems for government cost optimization using STM32 and ESP32 microcontrollers
+- 🎯 **RFID Attendance System**: Developing low-cost attendance management for rural educational institutions in Bangladesh with offline capabilities
+- 🎯 **Collaboration**: Working directly with EE faculty on multiple IoT in education projects
+- **Technologies**: STM32, ESP32, embedded C, MQTT, power electronics, RD-03D radar, RFID modules, smart relays
 
-### **IT Secretary** @ Copernicus Astronomical Memorial of SUST (Apr 2024 - Present)
+### **Software Engineer** @ Hackules Inc. (Jun 2024 - Jun 2025)
 
-- 🎯 Organized in-person member recruitment event in 2024
-- 🎯 Created online recruitment form and user management system
-- 🎯 Built Python tutorials for beginners
+- 🎯 **Educational Platforms**: Led full-stack development for Teachers Today (Next.js + Express.js) serving 1000+ users
+- 🎯 **Performance Optimization**: Developed Opedemy learning platform with 200+ API integrations, achieving 50% faster load times through SSR optimization
+- 🎯 **AI-Powered Tools**: Built marketing analytics tool with Facebook Graph API integration
+- 🎯 **Mobile Development**: Created Flutter CRM application for 1000+ active users
+- 🎯 **Technical Leadership**: Conducted technical interviews for engineering positions
+
+### **IT Secretary** @ Copernicus Astronomical Memorial of SUST (Nov 2024 - Present)
+
+- 🎯 **Website Development**: Built new official website from ground up using NextJS + TypeScript, achieving 80% faster load times
+- 🎯 **Event Coordination**: IT coordinator and Scientific Organizing Committee member for CAM-SUST Summer School on Astronomy 2025
+- 🎯 **Educational Content**: Developed Python programming tutorials for 200+ students
+- 🎯 **Technical Management**: Organized in-person recruitment events and coordinated technical workshops
 
 ## 🌟 Featured Projects
 
-### **IoT & Embedded Systems Projects**
+### **Embedded Systems & IoT Projects**
 
 ### [ESP32-S3 Weather Station](https://github.com/heronet/esp32s3-weatherstation) | C++, ESP32-S3, MQTT
 
 - Comprehensive weather monitoring system with multi-sensor environmental data collection
-- Features OLED display, MQTT connectivity for real-time data streaming
+- Features OLED display, MQTT connectivity for real-time data streaming to Raspberry Pi 5
 - Measures temperature, humidity, pressure, light intensity, and magnetic field with compass heading
-- **Hardware:** BME280, BH1750, QMC5883L, SSD1306 OLED, WiFi connectivity
+- **Hardware**: BME280, BH1750, QMC5883L, SSD1306 OLED, WiFi connectivity
 
 ### [ESP32-S3 Biometric Attendance System](https://github.com/heronet/esp32s3-attendance) | C++, ESP32-S3, BLE
 
-- Portable biometric attendance tracking solution using fingerprint recognition
-- Features offline storage with SPIFFS, Google Sheets integration for data sync
-- BLE control interface and RGB LED feedback for secure attendance management
-- **Hardware:** Fingerprint sensor, NeoPixel LEDs, WiFi/BLE connectivity
-
-### [ESP32 Radar Smart Switch](https://github.com/heronet/esp32_radar_switch) | C, ESP32, ESP-IDF
-
-- Smart presence-detection switch built with ESP-IDF and RD-03D 24GHz mmWave radar
-- Detects human presence to automate appliances using relay control
-- Low-power design with configurable detection sensitivity
-- **Hardware:** RD-03D radar sensor, relay modules, ESP32 DevKit
+- Portable biometric attendance tracking with AS608 fingerprint recognition
+- Offline storage with SPIFFS, Google Sheets integration for data synchronization
+- BLE control interface and NeoPixel LED feedback for secure attendance management
+- **Hardware**: AS608 Fingerprint sensor, NeoPixel LEDs, WiFi/BLE connectivity
 
 ### [STM32 BME280 HAL Driver](https://github.com/heronet/stm32-bme280-hal) | C, STM32, HAL
 
 - Custom HAL driver implementation for Bosch BME280 environmental sensor
-- Provides temperature, humidity, and pressure readings with I2C communication
-- Optimized for STM32 microcontrollers with error handling and calibration
-- **Hardware:** STM32F446, BME280 sensor, I2C interface
+- Optimized I2C communication with temperature, humidity, and pressure readings
+- Portable sensor library enabling rapid prototyping for environmental monitoring
+- **Hardware**: STM32F446, BME280 sensor, I2C interface
 
-### **Web Development Projects**
+### [ESP-IDF RD-03D Component](https://components.espressif.com/components/heronet/esp_rd-03d) | C, ESP-IDF, UART
 
-### [Opedemy](https://opedemy.com) | SvelteKit, TypeScript, Tailwind CSS
+- ESP-IDF component for AI-Thinker RD-03D mmWave radar sensor published on official registry
+- Comprehensive API for target detection and tracking with intelligent retention filtering
+- Real-time coordinate tracking and position description capabilities
+- **Hardware**: AI-Thinker RD-03D radar, UART communication, ESP32 platform
 
-- Led frontend development with 200+ API integrations
-- Optimized SSR/static rendering, reducing load times by 50%
-- Designed responsive UI ensuring seamless cross-device usability
+### **Web Development & Educational Projects**
 
-### [Teachers Today](https://teacherstoday.org) | Next.js, TypeScript, Express.js
+### [CAM-SUST Official Website](https://cam-sust.org) | NextJS, TypeScript
 
-- Revamped full-stack teacher recruitment platform
-- Advanced filtering by location, subject, and salary
-- Integrated MongoDB for CRUD operations and notification systems
+- Built full-stack astronomy organization website from ground up replacing WordPress
+- Implemented SSR/static rendering achieving 80% faster load times
+- Space-themed responsive design attracting increased user engagement
 
-### [HIAR](https://hiar.ac) | SvelteKit, TypeScript, Tailwind CSS
+### [Opedemy Learning Platform](https://opedemy.com) | SvelteKit, TypeScript
 
-- Led SvelteKit-based frontend for academic research platform
-- Integrated 100+ API endpoints with real-time collaboration
-- Reduced design debt by 30% using shadcn/ui components
+- Led frontend development for educational platform with 200+ API integrations
+- Optimized performance achieving 50% load time reduction through SSR implementation
+- Responsive UI with Tailwind CSS ensuring seamless cross-device experience
 
-### [Blood Donation Platform](https://goodwill.sirat.me) | SvelteKit, TypeScript, Gemini API
+### [Teachers Today Platform](https://teacherstoday.org) | Next.js, Express.js, MongoDB
 
-- Real-time donor mapping using Google Maps API
-- Integrated Gemini AI for medical FAQs and eligibility checks
-- Implemented Google OAuth and role-based access control
+- Full-stack teacher recruitment platform with advanced filtering and matching algorithms
+- Integrated SMS and Email APIs for notifications and role-based dashboards
+- MongoDB integration for comprehensive CRUD operations
+
+## 📚 Publications & Documentation
+
+### **Research Publications**
+
+**"Air Evacuation Time for Holes of Variable Diameters in a Space Station"** (Nov 2024)  
+*ResearchGate Publication – University Physics Competition 2024*
+- Co-authors: Siratul Islam, Ibrahim Hossain, Rimon Acharjee Sumon
+- Mathematical modeling using Poiseuille's law and Ideal Gas Law for space station air leak analysis
+- **Recognition**: Bronze Medal for mathematical solution and presentation quality
+
+### **Technical Documentation**
+
+**Official Zephyr RTOS Documentation** - Board Support & Toolchain Integration (2025)
+- [WeAct STM32F446 Board Documentation](https://docs.zephyrproject.org/latest/boards/weact/stm32f446_core/doc/index.html)
+- Comprehensive hardware specifications, programming instructions, and sample applications
+- Serving 1000+ embedded systems developers globally
+
+**ESP-IDF Component Documentation** - RD-03D Radar Sensor Integration (2025)
+- Complete API documentation and usage examples for radar sensor integration
+- Code examples, parameter explanations, and integration tutorials
 
 ## 🏆 Achievements & Recognition
 
-- 🥉 **Bronze Medal** - University Physics Competition 2024
-- 🌟 **Zephyr RTOS Contributor** - Official contributor with Linux Foundation badge
-- 🔧 **STM32F446 Board Support** - Added WeAct development board to Zephyr RTOS ([PR #91886](https://github.com/zephyrproject-rtos/zephyr/pull/91886))
-- 🎓 **Harvard CS50x** Certification
-- 🏅 **HackerRank Certifications**: Angular, C#, JavaScript (Basic & Advanced), Java, Python
-- 🥇 **1st Place** - Inter Cantonment IT Fest
-- 🥇 **1st Place** - NCPSC IT Fest
-- 🥉 **3rd Place** - Notre Dame Science Fest
+- 🥉 **Bronze Medal** - International University Physics Competition 2024 (Team 750, Problem A)
+- 🌟 **Linux Foundation Contributor** - Official Zephyr RTOS contributor status
+- 🔧 **Open Source Impact** - Components and contributions serving 1000+ developers globally
+- 🎓 **Harvard CS50x** - Computer Science Fundamentals Certification
+- 🏅 **Multiple HackerRank Certifications** - React, Angular, C#, JavaScript, Java, Python
+- 🥇 **Champion** - Inter Cantonment IT Festival 2021 (Social Media & E-commerce Platform)
+- 🥇 **Champion** - Nirjhor Cantonment Science Fest 2021
+- 🥉 **Third Place** - Notre Dame Science Festival 2021 (Senior, Project Exhibition)
 
 ## 📊 GitHub Stats
 
@@ -161,14 +201,21 @@ I'm a passionate software engineer specializing in IoT development, embedded sys
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heronet&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 </div>
 
-## 🎓 Education
+## 🎓 Education & Future Goals
 
-**Bachelor of Science (Hons.) in Physics** | _Aug 2023 - Aug 2027_  
+**Bachelor of Science (Hons.) in Physics** | *Aug 2023 - Aug 2027*  
 Shahjalal University of Science and Technology, Sylhet, Bangladesh
+- **Relevant Coursework**: Digital Electronics, Computational Physics, Mathematical Methods in Physics
+- **Research Focus**: Applied physics with emphasis on embedded systems and IoT applications
+
+**Future Academic Plans**:
+- Pursuing Master's/PhD in Embedded Systems Engineering or Computer Engineering
+- Research interests: RISC-V architecture, RTOS kernel development, embedded Linux, IoT communication protocols
+- Career focus: Automotive embedded systems, medical devices, aerospace applications, smart grid infrastructure
 
 ## 🤝 Let's Connect!
 
-I'm always open to interesting conversations, IoT collaborations, embedded systems projects, and remote work opportunities!
+I'm always open to research collaborations, embedded systems projects, open-source contributions, and graduate research opportunities!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.sirat.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siratul-islam)
@@ -179,8 +226,4 @@ I'm always open to interesting conversations, IoT collaborations, embedded syste
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=heronet&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>💡 "From microcontrollers to web apps - building the future one line of code at a time!"</i>
 </div>
