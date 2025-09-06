@@ -1,4 +1,4 @@
-# Hi there, I'm Siratul! 👋
+# Hi there, I'm Sirat! 👋
 
 **Embedded Systems & IoT | Full-Stack | Physics Student**
 
