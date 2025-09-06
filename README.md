@@ -6,8 +6,8 @@ I'm a passionate researcher and developer specializing in embedded systems, IoT 
 
 ## 🚀 About Me
 
-- 🔬 **Currently:** Research Assistant at SUST EEE Department (Mar 2025 - Present)
-- 🔭 **Previously worked at:** Hackules Inc. as Software Engineer (Jun 2024 - Jun 2025)
+- 🔬 **Currently:** Research Assistant at SUST EEE Department (Jun 2025 - Present)
+- 🔭 **Previously worked at:** Hackules Inc. as Software Engineer (Feb 2024 - Jun 2025)
 - 🌱 **Learning:** RISC-V architecture, embedded Linux, smart grid protocols
 - 🎯 **Focus:** STM32 microcontrollers, Zephyr RTOS, IoT protocols, power electronics
 - 🏆 **Achievement:** Official contributor to Linux Foundation Zephyr RTOS project
