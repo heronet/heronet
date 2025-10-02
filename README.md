@@ -10,7 +10,7 @@ I'm a passionate researcher and developer specializing in embedded systems, IoT 
 - 🔭 **Previously worked at:** Hackules Inc. as Software Engineer (Feb 2024 - Jun 2025)
 - 🌱 **Learning:** RISC-V architecture, embedded Linux, smart grid protocols
 - 🎯 **Focus:** STM32 microcontrollers, Zephyr RTOS, IoT protocols, power electronics
-- 🏆 **Achievement:** Official contributor to Linux Foundation Zephyr RTOS project
+- 🏆 **Achievement:** Upstream contributor to Linux Foundation Zephyr RTOS project
 - 📍 **Location:** Sylhet, Bangladesh
 - 💼 **Open to:** Research collaborations, embedded systems projects, and graduate opportunities
 
@@ -50,7 +50,7 @@ I'm a passionate researcher and developer specializing in embedded systems, IoT 
 
 ## 🔬 Research & Open Source Contributions
 
-### **Linux Foundation Zephyr RTOS Project - Official Contributor**
+### **Linux Foundation Zephyr RTOS Project - Upstream Contributor**
 *Jun 2025 – Present*
 
 - 🎯 **Board Support Development**: Added comprehensive WeAct STM32F446RET6 support with complete device tree, GPIO mappings, and peripheral initialization
