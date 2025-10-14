@@ -168,7 +168,7 @@ I'm a passionate researcher and developer specializing in embedded systems, IoT 
 ## 🏆 Achievements & Recognition
 
 - 🥉 **Bronze Medal** - International University Physics Competition 2024 (Team 750, Problem A)
-- 🌟 **Linux Foundation Contributor** - Official Zephyr RTOS contributor status
+- 🌟 **Linux Foundation Contributor** - Zephyr RTOS contributor badge
 - 🔧 **Open Source Impact** - Components and contributions serving 1000+ developers globally
 - 🎓 **Harvard CS50x** - Computer Science Fundamentals Certification
 - 🏅 **Multiple HackerRank Certifications** - React, Angular, C#, JavaScript, Java, Python
