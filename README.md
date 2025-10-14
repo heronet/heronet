@@ -50,23 +50,6 @@ I'm a passionate researcher and developer specializing in embedded systems, IoT 
 
 ## 🔬 Research & Open Source Contributions
 
-### **Linux Foundation Zephyr RTOS Project - Upstream Contributor**
-*Jun 2025 – Present*
-
-- 🎯 **Board Support Development**: Added comprehensive WeAct STM32F446RET6 support with complete device tree, GPIO mappings, and peripheral initialization
-- 🎯 **Development Tools Enhancement**: Integrated PyOCD and STM32CubeProgrammer support for WeAct STM32F405/F446 boards
-- 🎯 **Global Impact**: Contributing to ecosystem serving 1000+ embedded developers worldwide
-- 🎯 **Key Contributions**: 
- - **[PR #91886](https://github.com/zephyrproject-rtos/zephyr/pull/91886)** - WeAct STM32F446RET6 board support
- - **[PR #92985](https://github.com/zephyrproject-rtos/zephyr/pull/92985)** - PyOCD and STM32CubeProgrammer integration
-
-### **Espressif ESP-IDF Component Registry**
-*2025 – Present*
-
-- 🎯 **[ESP-IDF RD-03D Component](https://components.espressif.com/components/heronet/esp_rd-03d)**: Published production-ready component for AI-Thinker RD-03D mmWave radar sensor
-- 🎯 **API Development**: Created comprehensive API with intelligent filtering algorithms and real-time coordinate tracking
-- 🎯 **Documentation**: Authored complete integration guides and hardware abstraction layer documentation
-
 ## 📋 Current Research Projects
 
 ### **Radar-based Occupancy Detection and Automated Relay System**
