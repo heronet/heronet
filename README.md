@@ -2,9 +2,9 @@
 
 # Siratul Islam
 
-**Embedded Systems Engineer • Zephyr RTOS Contributor • Physics Student**
+**Embedded Systems Engineer • Physics Student**
 
-Research Assistant @ SUST EEE Department | 13 merged PRs to Linux Foundation Zephyr RTOS
+Research Assistant @ SUST EEE Department
 
 [![Portfolio](https://img.shields.io/badge/🌐_sirat.me-000000?style=flat&logoColor=white)](https://www.sirat.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siratul-islam)
