@@ -44,9 +44,10 @@ Working on IoT automation and embedded systems research in collaboration with EE
 - [#97578](https://github.com/zephyrproject-rtos/zephyr/pull/97578) - WeAct ESP32-C6-Mini board
 - [#97882](https://github.com/zephyrproject-rtos/zephyr/pull/97882) - DOIT ESP32 DevKit V1 board
 
-**Device Drivers (2 PRs)**
-- [#96510](https://github.com/zephyrproject-rtos/zephyr/pull/96510) - TM1637 7-segment display driver
-- [#97921](https://github.com/zephyrproject-rtos/zephyr/pull/97921) - HUB12 LED matrix driver
+**Device Drivers (3 PRs)**
+- [#96510](https://github.com/zephyrproject-rtos/zephyr/pull/96510) - TM1637 7-segment display driver (auxdisplay subsystem)
+- [#97921](https://github.com/zephyrproject-rtos/zephyr/pull/97921) - HUB12 LED matrix driver (display subsystem)
+- [#98445](https://github.com/zephyrproject-rtos/zephyr/pull/98445) - HUB12 horizontal chaining support for multi-panel displays
 
 **Toolchain (1 PR)**
 - [#92985](https://github.com/zephyrproject-rtos/zephyr/pull/92985) - PyOCD & STM32CubeProgrammer runner support
