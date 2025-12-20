@@ -49,10 +49,8 @@ Working on IoT automation and embedded systems research in collaboration with EE
 - [#97921](https://github.com/zephyrproject-rtos/zephyr/pull/97921) - HUB12 LED matrix driver (display subsystem)
 - [#98445](https://github.com/zephyrproject-rtos/zephyr/pull/98445) - HUB12 horizontal chaining support for multi-panel displays
 
-**Toolchain (1 PR)**
-- [#92985](https://github.com/zephyrproject-rtos/zephyr/pull/92985) - PyOCD & STM32CubeProgrammer runner support
+[and more](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Aheronet)
 
-📚 [Authored documentation](https://docs.zephyrproject.org) for all 8 board support packages
 
 ### Espressif ESP-IDF
 **Component Publisher** • Official ESP Component Registry
