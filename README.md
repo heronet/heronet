@@ -23,7 +23,7 @@ Currently, I serve as a **Research Assistant** at the SUST EEE Department, desig
 ## 🛠️ Open Source Architecture
 
 ### [Linux Foundation - Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr)
-**Official Triage Member & Contributor**
+**Triage Member & Contributor**
 
 **🔌 Device Drivers (Kernel Development)**
 *Implemented low-level drivers from datasheet specifications.*
