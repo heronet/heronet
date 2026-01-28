@@ -25,6 +25,10 @@ Currently, I serve as a **Research Assistant** at the SUST EEE Department, desig
 ### [Linux Foundation - Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr)
 **Triage Member & Contributor**
 
+**🚧 Current Works**
+* **[#100139 - Biometrics Subsystem](https://github.com/zephyrproject-rtos/zephyr/pull/100139):** Architecting a new native subsystem to standardize interfaces for biometric sensors.
+    * *Status:* RFC Approved. Currently under review for inclusion in upstream.
+
 **🔌 Device Drivers (Kernel Development)**
 *Implemented low-level drivers from datasheet specifications.*
 * **[#97921 - HUB12 LED Display](https://github.com/zephyrproject-rtos/zephyr/pull/97921):** Developed a display subsystem driver for high-refresh rate LED matrices.
