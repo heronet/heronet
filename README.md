@@ -3,7 +3,7 @@
 # Siratul Islam
 **Embedded Systems Engineer • Physics Researcher**
 
-Zephyr RTOS Triage Member | Research Assistant @ SUST
+Zephyr RTOS Subsystem Maintainer (Biometrics) | Research Assistant @ SUST
 
 [![Portfolio](https://img.shields.io/badge/🌐_sirat.me-000000?style=flat&logoColor=white)](https://www.sirat.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siratul-islam)
@@ -25,10 +25,9 @@ Currently, I serve as a **Research Assistant** at the SUST EEE Department, desig
 ### [Linux Foundation - Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr)
 **Triage Member & Contributor**
 
-**🚧 Current Works**
-* **[#100139 - Biometrics Subsystem](https://github.com/zephyrproject-rtos/zephyr/pull/100139):** Architecting a new native subsystem to standardize interfaces for biometric sensors.
-    * *Status:* RFC Approved. Currently under review for inclusion in upstream.
-
+**🚧 Maintainer**
+* **[#100139 - Biometrics Subsystem](https://github.com/zephyrproject-rtos/zephyr/pull/100139):** Maintaining the biometrics subsystem.
+  
 **🔌 Device Drivers (Kernel Development)**
 *Implemented low-level drivers from datasheet specifications.*
 * **[#97921 - HUB12 LED Display](https://github.com/zephyrproject-rtos/zephyr/pull/97921):** Developed a display subsystem driver for high-refresh rate LED matrices.
