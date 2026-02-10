@@ -1,7 +1,7 @@
 <div align="center">
 
 # Siratul Islam
-**Zephyr RTOS Maintainer • Embedded Systems Engineer • Physics Researcher**
+**Embedded Systems Engineer • Physics Researcher**
 
 Biometrics Subsystem Maintainer @ Zephyr Project | Research Assistant @ SUST
 
@@ -14,7 +14,7 @@ Biometrics Subsystem Maintainer @ Zephyr Project | Research Assistant @ SUST
 ---
 
 ### About Me
-**Official maintainer** for the **Zephyr RTOS** project (Linux Foundation), responsible for the Biometrics Subsystem and board support across ARM and RISC-V platforms. **Physics undergraduate** and **Embedded Systems Engineer** specializing in RTOS kernel development, Industrial IoT, and autonomous systems.
+**Maintainer** for the **Zephyr RTOS** project (Linux Foundation), responsible for the Biometrics Subsystem and board support across ARM, Xtensa and RISC-V platforms. **Physics undergraduate** and **Embedded Systems Engineer** specializing in RTOS kernel development, Industrial IoT, and autonomous systems.
 
 **Research Assistant** at SUST EEE Department, focusing on autonomous navigation, energy-efficient building automation, and real-world embedded applications for medical and industrial systems.
 
