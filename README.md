@@ -52,7 +52,7 @@ Physics student at SUST with a passion for embedded systems. Research Assistant 
 * **STM32:** [#91886 - STM32F446](https://github.com/zephyrproject-rtos/zephyr/pull/91886) • [#97435 - STM32WB55](https://github.com/zephyrproject-rtos/zephyr/pull/97435) • [#97553 - STM32G030](https://github.com/zephyrproject-rtos/zephyr/pull/97553)
 * **ESP32:** [#97670 - C3-Mini](https://github.com/zephyrproject-rtos/zephyr/pull/97670) • [#97578 - C6-Mini](https://github.com/zephyrproject-rtos/zephyr/pull/97578) • [#97720 - S3-Mini](https://github.com/zephyrproject-rtos/zephyr/pull/97720) • [#96687 - S3-B](https://github.com/zephyrproject-rtos/zephyr/pull/96687)
 
-➡️ [View all 17+ contributions](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Aheronet)
+➡️ [View all contributions](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Aheronet)
 
 ### Espressif ESP-IDF Components
 Published libraries at [components.espressif.com](https://components.espressif.com/u/heronet)
