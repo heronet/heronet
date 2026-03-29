@@ -21,7 +21,7 @@ Applying Physics to Hardware using code. I write drivers to make hardware work, 
 **ZEPHYR RTOS: BIOMETRICS SUBSYSTEM**  
 M: Siratul Islam \<email@sirat.me\>  
 S: Maintained  
-L: [zephyrproject-rtos/zephyr#100139](https://github.com/zephyrproject-rtos/zephyr/pull/100139)  
+L: [zephyrproject-rtos/zephyr/drivers/biometrics](https://github.com/zephyrproject-rtos/zephyr/tree/main/drivers/biometrics)  
 N: First biometric subsystem in any RTOS. Full API, driver abstractions,  
 &nbsp;&nbsp;&nbsp;reference drivers for ZFM-x0 and GT-5x optical fingerprint sensors.
 
@@ -35,7 +35,7 @@ N: Native FIDO2/CTAP2 authenticator subsystem. USB HID transport.
 **LINUX KERNEL: IIO: ST VL53L1X TOF DRIVER**  
 M: Siratul Islam \<email@sirat.me\>  
 S: Maintained  
-L: [lore.kernel.org](https://lore.kernel.org/linux-iio/20260325202005.29822-1-email@sirat.me)  
+L: [git.kernel.org](https://git.kernel.org/pub/scm/linux/kernel/git/jic23/iio.git/commit/?id=128e5ebec856ef8d30d4244751165ef50b41d2d2)  
 N: Driver + DT binding.
 
 ---
