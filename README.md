@@ -65,11 +65,3 @@ Board Support Packages
 **LINUX KERNEL**
 
 - IIO: ST VL53L1X time-of-flight driver + DT bindings · [lore.kernel.org](https://lore.kernel.org/linux-iio/20260325202005.29822-1-email@sirat.me)
-
----
-
-## Publication
-
-S. Islam, M. Rasedujjaman  
-*VABAL: A Vendor-Agnostic Biometric Subsystem for Industrial IoT on Resource-Constrained RTOS*  
-IEEE Transactions on Industrial Informatics · 2026 · Under review
