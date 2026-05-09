@@ -27,10 +27,9 @@ N: First biometric subsystem in any RTOS. Full API, driver abstractions,
 
 **ZEPHYR RTOS: FIDO2/CTAP2 SUBSYSTEM**  
 M: Siratul Islam \<email@sirat.me\>  
-S: RFC · Security WG approved · GSoC 2026  
+S: RFC · Security WG approved  
 L: [zephyrproject-rtos/zephyr#104327](https://github.com/zephyrproject-rtos/zephyr/pull/104327)  
-N: Native FIDO2/CTAP2 authenticator subsystem. USB HID transport.  
-&nbsp;&nbsp;&nbsp;BLE/NFC scoped post-GSoC.
+N: Native FIDO2/CTAP2 authenticator subsystem. USB HID, BLE, NFC transports.
 
 **LINUX KERNEL: IIO: ST VL53L1X TOF DRIVER**  
 M: Siratul Islam \<email@sirat.me\>  
