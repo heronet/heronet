@@ -16,7 +16,7 @@ Love tinkering with Embedded Systems, Operating Systems, and Drivers.
 
 ---
 
-## Maintainer Roles
+## FOSS Maintainer Roles
 
 **ZEPHYR RTOS: BIOMETRICS SUBSYSTEM**  
 M: Siratul Islam \<email@sirat.me\>  
@@ -25,31 +25,27 @@ L: [zephyrproject-rtos/zephyr/drivers/biometrics](https://github.com/zephyrproje
 N: First biometric subsystem in any RTOS. Full API, driver abstractions,  
 &nbsp;&nbsp;&nbsp;reference drivers for ZFM-x0 and GT-5x optical fingerprint sensors.
 
-**ZEPHYR RTOS: FIDO2/CTAP2 SUBSYSTEM**  
+**ZEPHYR RTOS: AUTHENTICATION SUBSYSTEM & FIDO2 SUBSYSTEM**  
 M: Siratul Islam \<email@sirat.me\>  
-S: RFC · Security WG approved  
+S: Under Review · Security WG approved  
 L: [zephyrproject-rtos/zephyr#104327](https://github.com/zephyrproject-rtos/zephyr/pull/104327)  
-N: Native FIDO2/CTAP2 authenticator subsystem. USB HID, BLE, NFC transports.
+N: Authentication subsystem, includes Native FIDO2/CTAP2 authenticator subsystem.
 
 **LINUX KERNEL: IIO: ST VL53L1X TOF DRIVER**  
 M: Siratul Islam \<email@sirat.me\>  
 S: Maintained  
-L: [git.kernel.org](https://git.kernel.org/pub/scm/linux/kernel/git/jic23/iio.git/commit/?id=128e5ebec856ef8d30d4244751165ef50b41d2d2)  
+L: [git.kernel.org](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/iio/proximity/vl53l1x-i2c.c)  
 N: Driver + DT binding.
 
 ---
 
 ## Contributions
 
-**ZEPHYR RTOS** · 20+ merged PRs · Drivers · BSPs
-
-Subsystems
-
-- [#100139](https://github.com/zephyrproject-rtos/zephyr/pull/100139) Biometrics subsystem
-- [#104327](https://github.com/zephyrproject-rtos/zephyr/pull/104327) FIDO2/CTAP2 subsystem (RFC)
+**ZEPHYR RTOS** · Drivers · BSPs
 
 Device Drivers
 
+- [#100139](https://github.com/zephyrproject-rtos/zephyr/pull/100139) ZFM-X0 & GT-5X fingerprint drivers
 - [#97921](https://github.com/zephyrproject-rtos/zephyr/pull/97921) HUB12 display driver
 - [#98445](https://github.com/zephyrproject-rtos/zephyr/pull/98445) HUB12 chaining support
 - [#96510](https://github.com/zephyrproject-rtos/zephyr/pull/96510) TM1637 7-segment driver
