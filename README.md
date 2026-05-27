@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siratul-islam)
 [![GitHub](https://img.shields.io/badge/heronet-181717?style=flat&logo=github&logoColor=white)](https://github.com/heronet)
  
-Applying Physics to Hardware using code. I write drivers to make hardware work, as a hobby. Also in Academia.
+Love tinkering with Embedded Systems, Operating Systems, and Drivers.
 
 [![Zephyr Maintainer](https://images.credly.com/size/90x90/images/ff36a283-caa4-4c9a-b14a-efa203ab91a3/image.png)](https://www.credly.com/badges/f9c1429d-66fc-4437-b363-b82b4bc39114/public_url)
 [![Zephyr Contributor](https://images.credly.com/size/80x80/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](https://www.credly.com/badges/112ed413-27ce-4960-a965-ad2df01b8b65/public_url)
