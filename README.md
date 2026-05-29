@@ -16,7 +16,7 @@ Love tinkering with Embedded Systems, Operating Systems, and Drivers.
 
 ---
 
-## FOSS Maintainer Roles
+## FOSS Involvements
 
 **ZEPHYR RTOS: BIOMETRICS SUBSYSTEM**  
 M: Siratul Islam \<email@sirat.me\>  
