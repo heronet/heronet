@@ -22,8 +22,7 @@ Love tinkering with Embedded Systems, Operating Systems, and Drivers.
 M: Siratul Islam \<email@sirat.me\>  
 S: Maintained  
 L: [zephyrproject-rtos/zephyr/drivers/biometrics](https://github.com/zephyrproject-rtos/zephyr/tree/main/drivers/biometrics)  
-N: First biometric subsystem in any RTOS. Full API, driver abstractions,  
-&nbsp;&nbsp;&nbsp;reference drivers for ZFM-x0 and GT-5x optical fingerprint sensors.
+N: First biometric subsystem in any RTOS.
 
 **ZEPHYR RTOS: AUTHENTICATION SUBSYSTEM & FIDO2 SUBSYSTEM**  
 M: Siratul Islam \<email@sirat.me\>  
