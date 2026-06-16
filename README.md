@@ -24,7 +24,7 @@ S: Maintained
 L: [zephyrproject-rtos/zephyr/drivers/biometrics](https://github.com/zephyrproject-rtos/zephyr/tree/main/drivers/biometrics)  
 N: First biometric subsystem in an RTOS.
 
-**ZEPHYR RTOS: AUTHENTICATION SUBSYSTEM & FIDO2 SUBSYSTEM**  
+**ZEPHYR RTOS: AUTHENTICATION SUBSYSTEM**  
 M: Siratul Islam \<siratul.islam@linux.dev\>  
 S: Maintained  
 L: [zephyrproject-rtos/zephyr/subsys/authentication](https://github.com/zephyrproject-rtos/zephyr/tree/main/subsys/authentication)  
