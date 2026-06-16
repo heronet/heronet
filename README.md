@@ -19,16 +19,22 @@ Love tinkering with Embedded Systems, Operating Systems, and Drivers.
 ## FOSS Involvements
 
 **ZEPHYR RTOS: BIOMETRICS SUBSYSTEM**  
-M: Siratul Islam \<email@sirat.me\>  
+M: Siratul Islam \<siratul.islam@linux.dev\>  
 S: Maintained  
 L: [zephyrproject-rtos/zephyr/drivers/biometrics](https://github.com/zephyrproject-rtos/zephyr/tree/main/drivers/biometrics)  
-N: First biometric subsystem in any RTOS.
+N: First biometric subsystem in an RTOS.
 
 **ZEPHYR RTOS: AUTHENTICATION SUBSYSTEM & FIDO2 SUBSYSTEM**  
-M: Siratul Islam \<email@sirat.me\>  
-S: Under Review · Security WG approved  
-L: [zephyrproject-rtos/zephyr#104327](https://github.com/zephyrproject-rtos/zephyr/pull/104327)  
-N: Authentication subsystem, includes Native FIDO2/CTAP2 authenticator subsystem.
+M: Siratul Islam \<siratul.islam@linux.dev\>  
+S: Maintained  
+L: [zephyrproject-rtos/zephyr/subsys/authentication](https://github.com/zephyrproject-rtos/zephyr/tree/main/subsys/authentication)  
+N: Authentication subsystem, FIDO2/CTAP2 authenticator subsystem.
+
+**ZEPHYR RTOS: FIDO2 SUBSYSTEM**  
+M: Siratul Islam \<siratul.islam@linux.dev\>  
+S: Maintained  
+L: [zephyrproject-rtos/zephyr/subsys/authentication/fido2](https://github.com/zephyrproject-rtos/zephyr/tree/main/subsys/authentication/fido2)  
+N: First FIDO2/CTAP2 authenticator subsystem in an RTOS.
 
 **LINUX KERNEL: IIO: ST VL53L1X TOF DRIVER**  
 M: Siratul Islam \<email@sirat.me\>  
