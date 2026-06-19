@@ -50,7 +50,6 @@ N: Driver + DT binding.
 
 Device Drivers
 
-- [#100139](https://github.com/zephyrproject-rtos/zephyr/pull/100139) ZFM-X0 & GT-5X fingerprint drivers
 - [#97921](https://github.com/zephyrproject-rtos/zephyr/pull/97921) HUB12 display driver
 - [#98445](https://github.com/zephyrproject-rtos/zephyr/pull/98445) HUB12 chaining support
 - [#96510](https://github.com/zephyrproject-rtos/zephyr/pull/96510) TM1637 7-segment driver
@@ -61,7 +60,3 @@ Board Support Packages
 - ESP32-C3-Mini · ESP32-C6-Mini · ESP32-S3-Mini
 
 → [All PRs](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Aheronet)
-
-**LINUX KERNEL**
-
-- IIO: ST VL53L1X time-of-flight driver + DT bindings · [lore.kernel.org](https://lore.kernel.org/linux-iio/20260325202005.29822-1-email@sirat.me)
