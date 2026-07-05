@@ -46,17 +46,20 @@ N: Driver Maintainer & Ad-hoc Reviewer.
 
 ## Contributions
 
-**ZEPHYR RTOS** · Drivers · BSPs
+**LINUX KERNEL** - Device Drivers
+
+- [**STMicroelectronics VL53L1X**](https://lore.kernel.org/linux-iio/20260325202005.29822-1-email@sirat.me/) Time-of-Flight (ToF) sensor
+- [**QSTCorp QMC5883L**](https://lore.kernel.org/linux-iio/20260619104524.10172-1-siratul.islam@linux.dev/) 3-Axis Magnetic Sensor
+
+**ZEPHYR RTOS** - Device Drivers, BSPs
 
 Device Drivers
-
 - [#97921](https://github.com/zephyrproject-rtos/zephyr/pull/97921) HUB12 display driver
 - [#98445](https://github.com/zephyrproject-rtos/zephyr/pull/98445) HUB12 chaining support
 - [#96510](https://github.com/zephyrproject-rtos/zephyr/pull/96510) TM1637 7-segment driver
 
 Board Support Packages
+- STM32F446, STM32WB55, STM32G030
+- ESP32, ESP32-C3-Mini, ESP32-C6-Mini, ESP32-S3-Mini
 
-- STM32F446 · STM32WB55 · STM32G030
-- ESP32-C3-Mini · ESP32-C6-Mini · ESP32-S3-Mini
-
-→ [All PRs](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Aheronet)
+-> [All Zephyr PRs](https://github.com/zephyrproject-rtos/zephyr/pulls?q=is%3Apr+author%3Aheronet)
