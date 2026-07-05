@@ -36,11 +36,11 @@ S: Maintained
 L: [zephyrproject-rtos/zephyr/subsys/authentication/fido2](https://github.com/zephyrproject-rtos/zephyr/tree/main/subsys/authentication/fido2)  
 N: First FIDO2/CTAP2 authenticator subsystem in an RTOS.
 
-**LINUX KERNEL: IIO: ST VL53L1X TOF DRIVER**  
-M: Siratul Islam \<email@sirat.me\>  
-S: Maintained  
-L: [git.kernel.org](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/iio/proximity/vl53l1x-i2c.c)  
-N: Driver + DT binding.
+**LINUX KERNEL: IIO SUBSYSTEM**  
+C: Siratul Islam \<siratul.islam@linux.dev\>  
+S: Maintained (Specific Drivers)  
+L: [lore.kernel.org](https://lore.kernel.org/linux-iio/?q=f%3Asiratul.islam%40linux.dev+OR+f%3Aemail%40sirat.me)  
+N: Driver Maintainer & Ad-hoc Reviewer.
 
 ---
 
