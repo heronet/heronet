@@ -3,7 +3,7 @@
 # Siratul Islam
  
 [![Webs](https://img.shields.io/badge/🌐_sirat.me-000000?style=flat&logoColor=white)](https://sirat.me)
-[![Email](https://img.shields.io/badge/siratul.islam@linux.dev-black?style=flat&logo=linux&logoColor=white)](mailto:siratul.islam@linux.dev)
+[![Email](https://img.shields.io/badge/siratul.islam@linux.dev-FCC624?style=flat&logo=linux&logoColor=black)](mailto:siratul.islam@linux.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/siratul-islam)
 [![GitHub](https://img.shields.io/badge/heronet-181717?style=flat&logo=github&logoColor=white)](https://github.com/heronet)
  
